@@ -38,7 +38,7 @@ Your Next.js ChatKit app is already configured with:
 1. Click "Environment Variables"
 2. Add:
    - **Name**: `OPENAI_API_KEY`
-   - **Value**: `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`
+   - **Value**: ``
    - **Environments**: Select all (Production, Preview, Development)
 
 3. Add:
